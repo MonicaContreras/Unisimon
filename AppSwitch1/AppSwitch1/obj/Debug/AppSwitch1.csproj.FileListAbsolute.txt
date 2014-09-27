@@ -1,0 +1,5 @@
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppSwitch1\AppSwitch1\bin\Debug\AppSwitch1.exe.config
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppSwitch1\AppSwitch1\bin\Debug\AppSwitch1.exe
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppSwitch1\AppSwitch1\bin\Debug\AppSwitch1.pdb
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppSwitch1\AppSwitch1\obj\Debug\AppSwitch1.exe
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppSwitch1\AppSwitch1\obj\Debug\AppSwitch1.pdb
